@@ -15,15 +15,15 @@
 	</a>
 </p>
 
-<h1>EasyUI Admin</h1>
+<h1>EasyGoUI Admin</h1>
 
 </div>
 
 ## 介绍
-EasyUI 是一个中后台前端解决方案，基于VUE3和elementPlus实现。
+EasyGoUI 是一个中后台前端解决方案，基于VUE3和elementPlus实现。
 使用最新的前端技术栈，提供各类实用的组件方便在业务开发时的调用，并且持续性的提供丰富的业务模板帮助你快速搭建企业级中后台前端任务。
 
-EasyUI的宗旨是 让一切复杂的东西傻瓜化。
+EasyGoUI的宗旨是 让一切复杂的东西傻瓜化。
 
 ![logo](https://lolicode.gitee.io/scui-doc/g_1.jpg)
 

@@ -3,7 +3,7 @@
 		<div class="welcome">
 			<div class="logo">
 				<img src="img/logo.png">
-				<h2>欢迎体验 EasyUI</h2>
+				<h2>欢迎体验 EasyGoUI</h2>
 			</div>
 			<div class="tips">
 				<div class="tips-item">

@@ -20,7 +20,7 @@ export default (error, vm)=>{
 	}
 	var errorName = errorMap[error.name] || "未知错误"
 
-	console.warn(`[EasyUI error]: ${error}`);
+	console.warn(`[EasyGoUI error]: ${error}`);
 	console.error(error);
 	//throw error;
 
