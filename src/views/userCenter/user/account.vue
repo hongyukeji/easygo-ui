@@ -33,7 +33,7 @@
 			return {
 				form: {
 					user: "administrator@scuiadmin.com",
-					name: "Sakuya",
+					name: "EasyGoUI",
 					sex: "0",
 					about: "正所谓富贵险中求"
 				}

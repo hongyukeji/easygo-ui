@@ -105,7 +105,7 @@
 					}
 				],
 				user: {
-					userName: "Sakuya",
+					userName: "EasyGoUI",
 					role: "超级管理员",
 				},
 				page: "account"
