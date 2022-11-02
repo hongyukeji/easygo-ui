@@ -40,7 +40,7 @@
 			return {
 				json:
 `{
-	"name": "SCUI",
+	"name": "EasyUI",
 	"menu": [
 		{
 			"title": "VUE 3",

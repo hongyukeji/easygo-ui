@@ -106,11 +106,11 @@
 		data() {
 			return {
 				sys: {
-					name: "SCUI",
+					name: "EasyUI",
 					logoUrl: "",
 					login: true,
 					passwordRules: "^(?![0-9]+$)(?![a-zA-Z]+$)[0-9A-Za-z]{6,20}$",
-					copyright: "@SCUI"
+					copyright: "@EasyUI"
 				},
 				msg: {
 					open: true,

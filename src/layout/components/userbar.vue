@@ -110,7 +110,7 @@
 						id: 3,
 						type: 'system',
 						avatar: "img/logo.png",
-						title: "感谢登录SCUI Admin",
+						title: "感谢登录EasyUI Admin",
 						describe: "Vue 3.0 + Vue-Router 4.0 + ElementPlus + Axios 后台管理系统。",
 						link: "https://gitee.com/lolicode/scui",
 						time: "2020年7月24日"
