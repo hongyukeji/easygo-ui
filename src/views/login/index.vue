@@ -125,7 +125,7 @@
 			this.$store.commit("clearViewTags")
 			this.$store.commit("clearKeepLive")
 			this.$store.commit("clearIframeList")
-			console.log('%c EasyGoUI %c Gitee: https://gitee.com/lolicode/scui', 'background:#666;color:#fff;border-radius:3px;', '')
+			console.log('%c EasyGoUI %c Gitee: https://gitee.com/hungyuvip/easygo-ui', 'background:#666;color:#fff;border-radius:3px;', '')
 		},
 		methods: {
 			configDark(){

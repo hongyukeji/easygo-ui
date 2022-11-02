@@ -31,10 +31,10 @@
 				this.ver = ver.data
 			},
 			golog(){
-				window.open("https://gitee.com/lolicode/scui/releases")
+				window.open("https://gitee.com/hungyuvip/easygo-ui/releases")
 			},
 			gogit(){
-				window.open("https://gitee.com/lolicode/scui")
+				window.open("https://gitee.com/hungyuvip/easygo-ui")
 			}
 		}
 	}
