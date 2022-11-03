@@ -1,11 +1,11 @@
 <template>
 	<el-card shadow="hover" header="关于项目" class="item-background">
 		<p>高性能 / 精致 / 优雅。基于Vue3 + Element-Plus 的中后台前端解决方案，如果喜欢就点个星星支持一下。</p>
-		<p style="display: flex;align-items: center;">
-			<a href='https://gitee.com/hungyuvip/easygo-ui' target="_blank">
+		<p style="display: flex;align-items: start;align-items: self-start;">
+			<a href='https://gitee.com/hungyuvip/easygo-ui' target="_blank" style="display: flex;">
 				<img src='https://gitee.com/hungyuvip/easygo-ui/badge/star.svg?theme=dark' alt='star'>
 			</a>
-			<a href='https://github.com/hongyukeji/easygo-ui' target="_blank">
+			<a href='https://github.com/hongyukeji/easygo-ui' target="_blank" style="display: flex;">
 				<img src='https://img.shields.io/github/stars/hongyukeji/easygo-ui.svg?style=flat-square&logo=GitHub' alt='star'>
 			</a>
 		</p>
